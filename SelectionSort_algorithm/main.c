@@ -9,7 +9,7 @@ void selectionSort(int A[],int size);
 int i;
 
 int main(){
-    int A[5] = {6,4,12,9,2}; //elements have been places in the array
+    int A[5] = {6,4,12,9,2}; //elements have been placed in the array
     int size = 5; //total of 5 elements
     printf("Elements unsorted: \n");
     for(i=0;i<size;i++){
